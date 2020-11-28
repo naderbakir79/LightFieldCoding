@@ -1,1 +1,1 @@
-# LightFieldCoding
+# Light Field Image Coding
